@@ -14,6 +14,7 @@
 		868D373C2BA089FB00CBBFBB /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 868D373B2BA089FB00CBBFBB /* CardView.swift */; };
 		868D373F2BA093E600CBBFBB /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 868D373E2BA093E600CBBFBB /* ColorExtension.swift */; };
 		868D37412BA0959D00CBBFBB /* CustomBackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 868D37402BA0959D00CBBFBB /* CustomBackgroundView.swift */; };
+		868D37432BA0A6B300CBBFBB /* CustomButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 868D37422BA0A6B300CBBFBB /* CustomButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		868D373B2BA089FB00CBBFBB /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		868D373E2BA093E600CBBFBB /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 		868D37402BA0959D00CBBFBB /* CustomBackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBackgroundView.swift; sourceTree = "<group>"; };
+		868D37422BA0A6B300CBBFBB /* CustomButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				868D372E2BA0862E00CBBFBB /* ContentView.swift */,
 				868D373B2BA089FB00CBBFBB /* CardView.swift */,
 				868D37402BA0959D00CBBFBB /* CustomBackgroundView.swift */,
+				868D37422BA0A6B300CBBFBB /* CustomButtonView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				868D37412BA0959D00CBBFBB /* CustomBackgroundView.swift in Sources */,
 				868D372F2BA0862E00CBBFBB /* ContentView.swift in Sources */,
 				868D373C2BA089FB00CBBFBB /* CardView.swift in Sources */,
+				868D37432BA0A6B300CBBFBB /* CustomButtonView.swift in Sources */,
 				868D372D2BA0862E00CBBFBB /* ChangeIconAppApp.swift in Sources */,
 				868D373F2BA093E600CBBFBB /* ColorExtension.swift in Sources */,
 			);
